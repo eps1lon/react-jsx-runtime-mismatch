@@ -1,7 +1,6 @@
 {
   "name": "react-jsx-runtime-mismatch",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/hueyhe/react-jsx-runtime-mismatch.git",
   "author": "sihonghehuey@gmail.com",
   "scripts": {
